@@ -1,0 +1,40 @@
+#container_prinipal{
+  margin-top:3rem;
+  background:rgb(240, 239, 240);
+  width:100vw;
+  height:auto;
+  padding:3rem 3rem;
+  border-radius:1rem;
+  margin-bottom:5rem;
+}
+
+
+#introduccion_app{
+  background:none;
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+  margin-bottom:3rem;
+}
+
+#introduccion_app p{
+  width:50%;
+  font-size:2rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+#introduccion_app img{
+  width:15rem;
+  height:15rem;
+  width:50%;
+}
+
+h3{
+  font-family: 'Poppins', sans-serif;
+}
+
+#integracionTarea{
+  font-family: 'Poppins', sans-serif;
+
+}
